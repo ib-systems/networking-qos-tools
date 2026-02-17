@@ -1,0 +1,12 @@
+clouds:
+  openstack:
+    auth:
+      auth_url: http://13.37.13.37:5000
+      project_domain_name: Default
+      user_domain_name: Default
+      project_name: admin
+      username: admin
+      password: admin
+    region_name: RegionOne
+    compute_api_version: 2.91
+    placement_api_version: 1.35
