@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Byte-compiled / cached
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment / secrets
+.env
+**/clouds.yaml
